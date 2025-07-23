@@ -280,3 +280,11 @@ This project is licensed under the [MIT License](LICENSE).
 - Improved performance
 - Fixed edge case in validation
 - Updated dependencies
+
+## Installation
+
+```bash
+npm install
+# or
+pip install -r requirements.txt
+```

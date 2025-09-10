@@ -448,3 +448,10 @@ pip install -r requirements.txt
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Changelog
+
+### Unreleased
+- Improved performance
+- Fixed edge case in validation
+- Updated dependencies

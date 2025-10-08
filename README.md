@@ -2263,3 +2263,10 @@ python main.py --config config.yaml
 - Improved performance
 - Fixed edge case in validation
 - Updated dependencies
+
+## Changelog
+
+### Unreleased
+- Improved performance
+- Fixed edge case in validation
+- Updated dependencies

@@ -628,3 +628,10 @@ pip install -r requirements.txt
 - Improved performance
 - Fixed edge case in validation
 - Updated dependencies
+
+## Changelog
+
+### Unreleased
+- Improved performance
+- Fixed edge case in validation
+- Updated dependencies

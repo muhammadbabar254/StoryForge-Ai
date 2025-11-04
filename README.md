@@ -2484,3 +2484,11 @@ npm install
 # or
 pip install -r requirements.txt
 ```
+
+## Installation
+
+```bash
+npm install
+# or
+pip install -r requirements.txt
+```

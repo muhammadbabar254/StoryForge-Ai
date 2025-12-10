@@ -2661,3 +2661,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - Improved performance
 - Fixed edge case in validation
 - Updated dependencies
+
+## Changelog
+
+### Unreleased
+- Improved performance
+- Fixed edge case in validation
+- Updated dependencies

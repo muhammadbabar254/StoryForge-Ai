@@ -941,3 +941,7 @@ python main.py --config config.yaml
 ```
 
 > **Note:** This feature is still in development. Please report any bugs via GitHub Issues.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

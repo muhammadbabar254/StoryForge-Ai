@@ -2884,3 +2884,13 @@ python main.py --help
 # Run with config
 python main.py --config config.yaml
 ```
+
+## Usage
+
+```bash
+# Basic usage
+python main.py --help
+
+# Run with config
+python main.py --config config.yaml
+```

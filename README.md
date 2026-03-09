@@ -1155,3 +1155,7 @@ npm install
 # or
 pip install -r requirements.txt
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

@@ -3111,3 +3111,10 @@ npm install
 # or
 pip install -r requirements.txt
 ```
+
+## Changelog
+
+### Unreleased
+- Improved performance
+- Fixed edge case in validation
+- Updated dependencies

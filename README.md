@@ -1293,3 +1293,11 @@ pip install -r requirements.txt
 - Improved performance
 - Fixed edge case in validation
 - Updated dependencies
+
+## Installation
+
+```bash
+npm install
+# or
+pip install -r requirements.txt
+```

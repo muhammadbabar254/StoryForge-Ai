@@ -1624,3 +1624,13 @@ This project is licensed under the [MIT License](LICENSE).
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Usage
+
+```bash
+# Basic usage
+python main.py --help
+
+# Run with config
+python main.py --config config.yaml
+```

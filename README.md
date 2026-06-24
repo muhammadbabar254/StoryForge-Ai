@@ -1760,3 +1760,10 @@ python main.py --help
 # Run with config
 python main.py --config config.yaml
 ```
+
+## Changelog
+
+### Unreleased
+- Improved performance
+- Fixed edge case in validation
+- Updated dependencies

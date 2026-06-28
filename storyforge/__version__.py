@@ -1,0 +1,5 @@
+__version__ = "1.0.0"
+__author__ = "Muhammad Babar"
+__url__ = "https://babar.site.je"
+__github__ = "https://github.com/muhammadbabar254"
+__linkedin__ = "https://www.linkedin.com/in/muhammad-babardev"

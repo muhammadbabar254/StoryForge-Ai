@@ -1,0 +1,9 @@
+# StoryForge AI
+
+ollama
+termcolor
+google-generativeai
+python-dotenv
+streamlit
+fpdf2
+EbookLib
